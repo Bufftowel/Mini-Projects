@@ -1,0 +1,1 @@
+A repository containing some mini projects made for fun!
